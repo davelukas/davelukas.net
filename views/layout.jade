@@ -1,0 +1,23 @@
+doctype 5
+html
+  head
+    meta(name="viewport", content="width=device-width, initial-scale=1, maximum-scale=1")
+    link(rel='shortcut icon', href='/images/bitters.jpg')
+    title= title
+    link(rel='stylesheet', href='/stylesheets/base.css')
+    link(rel='stylesheet', href='/stylesheets/skeleton.css')
+    link(rel='stylesheet', href='/stylesheets/layout.css')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    .container.navbar.navbar-bottom
+      .ten.columns.offset-by-two
+        ul
+          li 
+            a(href='/')= Dave Lukas
+          li 
+            a(href='http://davelukas.net/poetry') Poetry
+    .container
+      .ten.columns 
+        block content
+      .five.columns.offset-by-one.sidebar
+        include sidebar.jade
