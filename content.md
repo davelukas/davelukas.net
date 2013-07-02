@@ -1,7 +1,7 @@
 > ####"You wanted an encore, but there's no encore today. Cause the moment is now, can't get it back from the grave." 
 > -Macklemore
 
-**July 2** Immense feeling of empowerment for getting my site posted. Huge high five to [Ev](http://evbogue)!
+**July 2** Immense feeling of empowerment for getting my site posted. Huge high five to [Ev](http://evbogue.com)!
 
 **June 29** Trying to get this bad boy posted to the public interwebs.
 
