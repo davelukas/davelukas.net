@@ -1,9 +1,9 @@
 doctype 5
 html
   head
+    title title
     meta(name="viewport", content="width=device-width, initial-scale=1, maximum-scale=1")
     link(rel='shortcut icon', href='/images/bitters.jpg')
-    title= title
     link(rel='stylesheet', href='/stylesheets/base.css')
     link(rel='stylesheet', href='/stylesheets/skeleton.css')
     link(rel='stylesheet', href='/stylesheets/layout.css')
@@ -18,6 +18,9 @@ html
             a(href='/about') About
           li 
             a(href='/poetry') Poetry
+          li
+            a(href='/writing') Writing
+
     .container
       .ten.columns 
         block content
