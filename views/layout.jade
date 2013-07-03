@@ -7,8 +7,12 @@ html
     link(rel='stylesheet', href='/stylesheets/base.css')
     link(rel='stylesheet', href='/stylesheets/skeleton.css')
     link(rel='stylesheet', href='/stylesheets/layout.css')
+    script(type='text/javascript', src='/javascripts/highlight.min.js')
+    link(rel='stylesheet', href='/stylesheets/monokai_sublime.css')
     link(rel='stylesheet', href='/stylesheets/style.css')
+    
   body
+    script(type='text/javascript') hljs.initHighlightingOnLoad();
     .container.navbar.navbar-bottom
       .ten.columns.offset-by-two
         ul
