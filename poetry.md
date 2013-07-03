@@ -1,3 +1,37 @@
+###Only Sky###
+the plane pierces through the clouds.  
+enters a new world.  
+where the ground is wooly,  
+and above, only sky.  
+
+the sun is also rising.  
+my eyes seek out its’ illumination.  
+welcoming me.  
+into the world in the clouds.  
+
+the skyline of chicago,  
+resides in this world today.  
+given special permission,  
+to be uprooted,  
+and live in clouds for a spell.  
+
+peaceful and serene,  
+the city looks,  
+resting among the clouds,  
+with no unpleasant linear streets,  
+and dull colors of gray.  
+
+instead, it’s just the buildings,  
+who always reach for the sky.  
+and now they’ve found it.  
+entered this new world,  
+of clouds, sky and sun,  
+if only for a short time.  
+it finds the same tranquility,  
+that lodges in my heart,  
+to be among the sky again.  
+
+
 ###Ocean Friend###
 i run towards the ocean,  
 the magnitude of her presence,  
