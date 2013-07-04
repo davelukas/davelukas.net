@@ -3,12 +3,12 @@ So you want to know my story huh? I'm not sure what I should put here cause I do
 So let's keep things simple:  
   - I'm a [divorced](http://davelukas.net/writing) Dad of two kids (aged 8 and 5).  
   - I'm a runner. My focus is on the long distance races right now (e.g. 50k, 50 miles). If you're interested, I'm the creator of [Runner Hero](http://runnerhero.com), a running website that's beyond amazing!  
-  - I'm a writer.  
-  - I'm a poet.  
+  - I'm a [writer](http://davelukas.net/writing).  
+  - I'm a [poet](http://davelukas.net/poetry).  
   - I'm an artist.  
   - I'm a developer cause I built this site myself, with the help of [Gwen Bell](http://gwenbell.com/) and [Ev Bogue](http://evbogue.com/).  
   
 _Dave Lukas_  
 _July 2013_  
 
-img(src'/images/porkies2011.jpg' style='border: 3px solid #ccc; padding: 4px; width: 100%')
+img(src='/images/porkies2011.jpg' style='border: 3px solid #ccc; padding: 4px; width: 100%')
