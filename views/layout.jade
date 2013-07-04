@@ -26,7 +26,8 @@ html
             a(href='/writing') Writing
 
     .container
-      .ten.columns 
-        block content
-      .five.columns.offset-by-one.sidebar
+
+      .five.columns.sidebar
         include sidebar.jade
+      .ten.columns.offset-by-one
+        block content

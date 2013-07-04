@@ -11,4 +11,4 @@ So let's keep things simple:
 _Dave Lukas_  
 _July 2013_  
 
-img(src='/images/porkies2011.jpg' style='border: 3px solid #ccc; padding: 4px; width: 100%')
+<img src="/images/porkies2011.jpg" style= width:100%; border: 3px solid #ccc;>
