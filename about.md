@@ -1,4 +1,4 @@
-So you want to know who Dave Lukas is huh? I'm not sure what I should put here cause I don't feel like telling my life story. Not to mention that my life is evolving faster than I'd care to update this page.
+So you want to know my story huh? I'm not sure what I should put here cause I don't feel like telling my life story. Not to mention that my life is evolving faster than I'd care to update this page.
 
 So let's keep things simple:  
   - I'm a [divorced](http://davelukas.net/writing) Dad of two kids (aged 8 and 5).  
@@ -9,4 +9,6 @@ So let's keep things simple:
   - I'm a developer cause I built this site myself, with the help of [Gwen Bell](http://gwenbell.com/) and [Ev Bogue](http://evbogue.com/).  
   
 _Dave Lukas_  
-_July 2013_
+_July 2013_  
+
+img(src'/images/porkies2011.jpg' style='border: 3px solid #ccc; padding: 4px; width: 100%')

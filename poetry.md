@@ -1,3 +1,64 @@
+###The Twenty Year Wound###
+i shoulder my backpack.  
+loneliness weighing more than the books inside.  
+i navigate,  
+these unfamiliar hallways.  
+
+i enter the classroom.  
+unfamiliar faces fail to notice,  
+the new kid,  
+or the immense wraith of sadness,  
+which stalks behind me.  
+
+i seek out a desk.  
+collapse into the seat.  
+the loneliness and sadness,  
+begin to erode my soul.  
+the tears simmer to the surface.  
+i thrust them down with spite.  
+stuff them so far down inside,  
+they’ll remain there,  
+twenty years later,  
+just as raw,  
+just as painful.  
+
+i just want to go home.  
+i just want to move back to my old town.  
+i just want to die.  
+and disappear for a while,  
+to hide from the torment.  
+
+the ancient civilization lecture begins.  
+and my high school years commence,  
+on this building block of loneliness and desolation.  
+i will never recover,  
+from this event,  
+until twenty years later,  
+when i sit down,  
+and talk to the 13 year old boy,  
+who’s pain is still very real,  
+and who’s fears haunt this grown man today.  
+
+so i take his hand,  
+and lead him down these dreadful halls once more,  
+and i try to tell him,  
+what i wished someone had told him,  
+when he felt no one was listening,  
+and that nobody cared.  
+because i care now.  
+and it’s not too late,  
+to heal these wounds,  
+and give him the love,  
+he deserved and needed,  
+so we can all move forward,  
+hand in hand,  
+and face this world,  
+a little more brighter,  
+than we did yesterday.  
+because we’re together,  
+and we can begin to heal  this wound which was left gaping,  
+for far too long.  
+
 ###Only Sky###
 the plane pierces through the clouds.  
 enters a new world.  
