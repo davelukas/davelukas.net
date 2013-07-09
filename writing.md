@@ -1,5 +1,5 @@
 #It's Time#
-It’s time.
+It’s time.  
 
 Time to tell you the secret I’ve been keeping from you for over a year. Some of you connected the dots and figured it out. Others, I confided what’s going on. Regardless, it’s time to share what has beat me down, kicked me in the gut, and forced me to completely rearrange and reevaluate my life.
 
@@ -16,7 +16,7 @@ In December 2011 I lost my job. My third layoff in three years. Four weeks later
 
 The reason for our separation and subsequent divorce is over a period of 3-4 years, we evolved from being a husband and wife into friends and roommates. The romantic connection was gone and it was not coming back. So rather than stay in a loveless marriage for another 30-40 years, it was time to admit the truth and begin the process of moving on.
 
-We both weren’t getting what we wanted out of the marriage and longed for something we knew we couldn’t give each other. It was a mutual decision and one that had been discussed openly for years. I deserve to have the love and connection I want and realizing I wasn’t going to get it in my marriage was a big hurdle to clear. We’ve remained friends to this day and I hope for our children's sake it stays that way. The legal process of my divorce has begun and will be over soon.
+[tag: next]We both weren’t getting what we wanted out of the marriage and longed for something we knew we couldn’t give each other. It was a mutual decision and one that had been discussed openly for years. I deserve to have the love and connection I want and realizing I wasn’t going to get it in my marriage was a big hurdle to clear. We’ve remained friends to this day and I hope for our children's sake it stays that way. The legal process of my divorce has begun and will be over soon.
 
 Those are the facts. The truth. The story I’ve hidden from you. There’s so much more to my story, but first you need the facts.
 
@@ -24,10 +24,12 @@ Those are the facts. The truth. The story I’ve hidden from you. There’s so m
 So why am I sharing this now? Why have I kept you in the dark? In short, I’m ready to move on. When this all began last year, fear of what other people would think and the shame of a failed marriage kept the truth concealed from the world. 
 
 But I’ve discovered recently the power in sharing my story and opening up the opportunity for connection. And for me to move past this, I can’t hide the truth any longer. I’m ready to begin the next chapter in my story.  
+
 It’s time.
 
 ####Shame and Questions####
-While I’m very proud of the man I’ve become in the past 15 months, it comes with a feeling of shame that I had to wait until my marriage was over and I was unemployed for this growth to happen. 
+While I’m very proud of the man I’ve become in the past 15 months, it comes with a feeling of shame that I had to wait until my marriage was over and I was unemployed for this growth to happen.  
+
 Why did it all have to happen this way?  
 Why did I have to put my children through this?  
 Why did I have to put myself through this?  
@@ -46,13 +48,20 @@ The end of my marriage will affect my children, but not as much as seeing their 
 
 Through this all I’ve come to view my children in a different light. My time spent with them is precious and I maximize it by putting away the phone and distractions and simply being with them. That’s all they want. They just want someone to be with them, play with them and see them for who they are. It’s as simple as that. All the credit in the world goes to Rachel Stafford at [Hands Free Mama](http://handsfreemama.com/) for this massive change in perspective. 
 
-Not only has this change deepened my connection to my kids, but it helped me reframe not seeing my kids from a place of lacking to a place of opportunity. Yes the time I see my kids has massively reduced, but now I’m able to squeeze every ounce of the precious time with them into an opportunity for connection. It’s working.
+Not only has this change deepened my connection to my kids, but it helped me reframe not seeing my kids from a place of lacking to a place of opportunity. Yes the time I see my kids has massively reduced, but now I’m able to squeeze every ounce of the precious time with them into an opportunity for connection.
 
 ####My Foundation####
-I’ve been asked a lot about how I’m able to handle the divorce and being away from my kids so well. I credit years of therapy and self development for creating a solid foundation within myself. So when the tornado of divorce and moving away from my kids hit, my house had a solid foundation to rely on. Yes this house shook. Yes it was scary. Yes things I held dear fell off the walls and broke. Yes it felt like the whole house would come crashing down and kill me. But it didn’t. I’m still standing. I’m still here talking to you about what I’ve gone through. And I’m relying on my solid foundation as I begin to build a new house.
+I’ve been asked a lot about how I’m able to handle the divorce and being away from my kids so well. I credit years of therapy and self development for creating a solid foundation within myself. So when the tornado of divorce and moving away from my kids hit, my house had a solid foundation to rely on.  
+
+Yes this house shook.  
+Yes it was scary.  
+Yes things I held dear fell off the walls and broke.  
+Yes it felt like the whole house would come crashing down and kill me.  
+But it didn’t. I’m still standing.  
+I’m still here talking to you about what I’ve gone through. And I’m relying on my solid foundation as I begin to build a new house.
 
 ####Connection####
-In the 15 months since I’ve become separated and moved out of my house I’ve deepened my writing skills, become a poet, reduced my marathon time by 45 minutes, ran a 50 mile ultramarathon, completed the GoRuck Challenge, and developed a meditation practice. And while those are all great, the aspect I’m most proud of is the connecting I’ve done with more people than I can count. 
+In the 15 months since I’ve become separated and moved out of my house I’ve deepened my writing skills, become a poet, reduced my marathon time by 45 minutes, ran a 50 mile ultramarathon, ran a 31 mile ultramarathon, completed the GoRuck Challenge, and developed a meditation practice. And while those are all great, the aspect I’m most proud of is the connecting I’ve done with more people than I can count. 
 
 It’s significant because for most of the time I was married I hid behind my wife and kids. My choices revolved around how my decisions would affect their happiness. Now having that option removed, I was left all alone. At first this loneliness ate me up. But little by little, I began connecting with people I would have never imagined. People who came into my life at precisely the right time and for just the right reasons to make an impact on me. There is no way I would have met them had I remained in my marriage.
 
@@ -68,7 +77,7 @@ I’m free to move on from the bad choices I’ve made.
 I’m free to move on from the voices from my past that try to keep me chained down.  
 I’m free to move on from the sadness and find happiness.  
 
-Navigating this free space as I move away from my past and live in the present is where I find myself today. The voices of my past don’t talk as loudly as before. It’s silent here. For once I can hear myself talk, listen to my intuition, and open up my heart for dialogue and connection. 
+Navigating this free space as I move away from my past and live in the present is where I find myself today. The voices of my past don’t talk as loudly as before. It’s silent here. For once I can hear myself talk, listen to my intuition, and open up my heart for dialogue and connection.
 
 However, it’s scary living here. I don’t know what lies in front of me tomorrow, next week, or next year. So instead, I focus on today and the moment I’m in right now. 
 
@@ -95,3 +104,6 @@ But now, I see light. I see an ocean. I see sunlight. And I’m walking towards 
 This time it feels different.  
 This time the light I see is not false and I won’t be let down.  
 This time, the light sees me too.  
+
+_Dave_  
+_June 2013_  

@@ -1,6 +1,8 @@
 > ####"You wanted an encore, but there's no encore today. Cause the moment is now, can't get it back from the grave." 
 > -Macklemore
 
+**July 9** Transitioning back from an outstanding weekend at [WDS](http://worlddominationsummit.com). Processing...
+
 **July 5** The connecting happening at [WDS](http://worlddominationsummit.com) fascinates me and is filling me up energetically.
 
 **July 2** Had a great meditative/peaceful 5 mile run through the woods at twilight.
