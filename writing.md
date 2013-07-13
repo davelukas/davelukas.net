@@ -18,6 +18,8 @@ The reason for our separation and subsequent divorce is over a period of 3-4 yea
 
 [tag: next]We both weren’t getting what we wanted out of the marriage and longed for something we knew we couldn’t give each other. It was a mutual decision and one that had been discussed openly for years. I deserve to have the love and connection I want and realizing I wasn’t going to get it in my marriage was a big hurdle to clear. We’ve remained friends to this day and I hope for our children's sake it stays that way. The legal process of my divorce has begun and will be over soon.
 
+_**UPDATE**_: As of July 11, 2013 at 10:19 AM, the divorce is final.
+
 Those are the facts. The truth. The story I’ve hidden from you. There’s so much more to my story, but first you need the facts.
 
 ####Why Now####

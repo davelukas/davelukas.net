@@ -1,5 +1,7 @@
-> ####"You wanted an encore, but there's no encore today. Cause the moment is now, can't get it back from the grave." 
-> -Macklemore
+> ####"I see a new sun, rising again. Brand new colors, brand new road ahead." 
+> -Xavier Rudd
+
+**July 11** The next chapter officially began at 10:19 AM today.
 
 **July 9** Transitioning back from an outstanding weekend at [WDS](http://worlddominationsummit.com). Processing...
 
