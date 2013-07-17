@@ -16,7 +16,7 @@ In December 2011 I lost my job. My third layoff in three years. Four weeks later
 
 The reason for our separation and subsequent divorce is over a period of 3-4 years, we evolved from being a husband and wife into friends and roommates. The romantic connection was gone and it was not coming back. So rather than stay in a loveless marriage for another 30-40 years, it was time to admit the truth and begin the process of moving on.
 
-[tag: next]We both weren’t getting what we wanted out of the marriage and longed for something we knew we couldn’t give each other. It was a mutual decision and one that had been discussed openly for years. I deserve to have the love and connection I want and realizing I wasn’t going to get it in my marriage was a big hurdle to clear. We’ve remained friends to this day and I hope for our children's sake it stays that way. The legal process of my divorce has begun and will be over soon.
+We both weren’t getting what we wanted out of the marriage and longed for something we knew we couldn’t give each other. It was a mutual decision and one that had been discussed openly for years. I deserve to have the love and connection I want and realizing I wasn’t going to get it in my marriage was a big hurdle to clear. We’ve remained friends to this day and I hope for our children's sake it stays that way. The legal process of my divorce has begun and will be over soon.
 
 _**UPDATE**_: As of July 11, 2013 at 10:19 AM, the divorce is final.
 
