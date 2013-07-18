@@ -1,3 +1,68 @@
+###Wow###
+at 10:19 am,  
+july 11, 2013,  
+i emerge,  
+no longer married,  
+and officially divorced.  
+
+scripts were followed.  
+the process devoid of emotion.  
+cold.  
+regimented.  
+
+twenty minutes,  
+one judge’s signature,  
+a 17 year relationship,  
+half of my life,  
+an 11 year marriage,  
+over.  
+
+wow.  
+
+unsure how to feel,  
+as a crisp new chapter begins,  
+in place of several blurry ones,  
+which preceded.  
+
+i believe i should feel more,  
+yet i don’t.  
+but "it's just another day”,  
+isn't sufficient.  
+for the impact is towering,  
+thumping within my being.  
+like the rhythm of a drum,  
+which unnerves my heart.  
+
+i refuse to wrap this up,  
+with a pretty little bow.  
+and place it on a shelf,  
+to show off to others.  
+nothing poignant to say.  
+no easy way to explain,  
+the reverberations to my life.  
+
+my next chapter begins.  
+an exhilarating, blank page.  
+it smells good,  
+as i put pen to paper,  
+and inscribe the initial entry:  
+hope  
+love  
+magic  
+and close the book.  
+gaze upon the forest,  
+with a peaceful smile.  
+rise.  
+begin to walk,  
+into an unfamiliar wood,  
+devoid of paths.  
+yet erupting with sunshine,  
+to light my way.  
+
+this is going to be good.  
+
+_July 2013_  
+
 ###The Twenty Year Wound###
 i shoulder my backpack.  
 loneliness weighing more than the books inside.  
@@ -58,6 +123,8 @@ than we did yesterday.
 because we’re together,  
 and we can begin to heal  this wound which was left gaping,  
 for far too long.  
+
+_June 2013_  
 
 ###Only Sky###
 the plane pierces through the clouds.  
