@@ -1,6 +1,8 @@
 > ####"I see a new sun, rising again. Brand new colors, brand new road ahead." 
 > -Xavier Rudd
 
+**July 17**
+
 **July 11** The next chapter officially began at 10:19 AM today.
 
 **July 9** Transitioning back from an outstanding weekend at [WDS](http://worlddominationsummit.com). Processing...
