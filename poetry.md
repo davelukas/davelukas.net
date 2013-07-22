@@ -11,37 +11,15 @@ cold.
 regimented.  
 
 twenty minutes,  
-<<<<<<< HEAD
-one judge’s signature,  
-a 17 year relationship,  
-half of my life,  
-an 11 year marriage,  
-over.  
-=======
 one judge's signature,  
 a 17 year relationship,  
 half of my life,  
 an 11 year marriage,  
 terminated.  
->>>>>>> github/master
 
 wow.  
 
 unsure how to feel,  
-<<<<<<< HEAD
-as a crisp new chapter begins,  
-in place of several blurry ones,  
-which preceded.  
-
-i believe i should feel more,  
-yet i don’t.  
-but "it's just another day”,  
-isn't sufficient.  
-for the impact is towering,  
-thumping within my being.  
-like the rhythm of a drum,  
-which unnerves my heart.  
-=======
 as a crisp new chapter begins.  
 in place of the several blurry ones,  
 which preceded.  
@@ -54,22 +32,12 @@ for the reverberation is immense,
 thumping within my being,  
 like the rhythm of a drum,  
 which quakes my heart.  
->>>>>>> github/master
 
 i refuse to wrap this up,  
 with a pretty little bow.  
 and place it on a shelf,  
 to show off to others.  
-<<<<<<< HEAD
-nothing poignant to say.  
-no easy way to explain,  
-the reverberations to my life.  
 
-my next chapter begins.  
-an exhilarating, blank page.  
-it smells good,  
-as i put pen to paper,  
-=======
 nothing poignant to say,  
 no straightforward way to explain,  
 the vast echo on my life.  
@@ -78,7 +46,6 @@ my next chapter begins.
 a luminous blank page.  
 it smells good.  
 i put pen to paper,  
->>>>>>> github/master
 and inscribe the initial entry:  
 hope  
 love  
@@ -90,24 +57,17 @@ rise.
 begin to walk,  
 into an unfamiliar wood,  
 devoid of paths.  
-<<<<<<< HEAD
-yet erupting with sunshine,  
-=======
 yet flooded with sunshine,  
->>>>>>> github/master
 to light my way.  
 
 this is going to be good.  
 
-<<<<<<< HEAD
-_July 2013_  
 
-=======
 _Dave_  
 _July 2013_  
 
 
->>>>>>> github/master
+
 ###The Twenty Year Wound###
 i shoulder my backpack.  
 loneliness weighing more than the books inside.  
