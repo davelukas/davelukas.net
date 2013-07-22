@@ -1,7 +1,11 @@
 > ####"I see a new sun, rising again. Brand new colors, brand new road ahead." 
 > -Xavier Rudd
 
+<<<<<<< HEAD
 **July 17**
+=======
+**July 18** Published poem about [the divorce](http://davelukas.net/poetry).
+>>>>>>> github/master
 
 **July 11** The next chapter officially began at 10:19 AM today.
 
@@ -16,5 +20,3 @@
 **June 29** Trying to get this bad boy posted to the public interwebs.
 
 **June 5** Lesson learned on the "power" of the almighty email list.
-
-**June 3** Writing poetry at the park.
