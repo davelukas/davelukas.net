@@ -1,3 +1,6 @@
+_Latest Poems_: <a href="#wow">Wow</a> | <a href="#twenty">The Twenty Year Wound</a> | <a href="#onlysky">Only Sky</a> | <a href="#ocean">Ocean Friend</a>
+
+<a name="wow"></a>
 ###Wow###
 at 10:19 am,  
 july 11, 2013,  
@@ -67,7 +70,7 @@ _Dave_
 _July 2013_  
 
 
-
+<a name="twenty"></a>
 ###The Twenty Year Wound###
 i shoulder my backpack.  
 loneliness weighing more than the books inside.  
@@ -131,6 +134,7 @@ for far too long.
 
 _June 2013_  
 
+<a name="onlysky"></a>
 ###Only Sky###
 the plane pierces through the clouds.  
 enters a new world.  
@@ -165,6 +169,7 @@ that lodges in my heart,
 to be among the sky again.  
 
 
+<a name="ocean"></a>
 ###Ocean Friend###
 i run towards the ocean,  
 the magnitude of her presence,  

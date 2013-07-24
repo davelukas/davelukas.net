@@ -1,6 +1,7 @@
 > ####"I see a new sun, rising again. Brand new colors, brand new road ahead." 
 > -Xavier Rudd
 
+**July 24** Halfway through editing and categorizing my book of poetry. Celebrating small steps towards a larger goal.
 
 **July 18** Published [poem about the divorce](http://davelukas.net/poetry).
 
