@@ -3,7 +3,7 @@
 
 **July 24** Halfway through editing and categorizing my book of poetry. Celebrating small steps towards a larger goal.
 
-**July 18** Published [poem about the divorce](http://davelukas.net/poetry).
+**July 18** Published [poem about the divorce](http://davelukas.net/poetry#wow).
 
 **July 11** The next chapter officially began at 10:19 AM today.
 
