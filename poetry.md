@@ -1,4 +1,44 @@
-_Latest Poems_: <a href="#wow">Wow</a> | <a href="#twenty">The Twenty Year Wound</a> | <a href="#onlysky">Only Sky</a> | <a href="#ocean">Ocean Friend</a>
+_Latest Poems_: <a href="#reallyready">Really Ready?</a> | <a href="#wow">Wow</a> | <a href="#twenty">The Twenty Year Wound</a> | <a href="#onlysky">Only Sky</a> | <a href="#ocean">Ocean Friend</a>
+
+<a name="reallyready"></a>
+###Really Ready?###
+at times,  
+i'm ready to ask for love,  
+to be ushered into my life.  
+tell the universe,  
+i'm ready.  
+
+but fear begins to speak up,  
+with his interrogation of “what if”.  
+pestering questions.  
+incessant.  
+barbed.  
+prowling right for the open wound,  
+which still rests within my heart.  
+
+am i really ready,  
+to love again?  
+has enough time passed?  
+what if i get burned again?  
+what if these readiness feelings,  
+are the same as last year,  
+when i thought i was ready,  
+but in reality was not.  
+and wounded another heart,  
+which had begun to love me.  
+
+am i lovable?  
+do i reek of the disease of divorce?  
+am i toxic?  
+these questions never seem to cease.  
+which allows my friend loneliness,  
+to remain sleeping in my bed.  
+with its' icy arms wrapped tightly around me,  
+while it whispers in my panicky ear,  
+"go back to sleep".  
+
+_Dave_  
+_August 2013_  
 
 <a name="wow"></a>
 ###Wow###

@@ -1,6 +1,8 @@
 > ####"I see a new sun, rising again. Brand new colors, brand new road ahead." 
 > -Xavier Rudd
 
+**August 16** New poem, ["Really Ready?""](http://davelukas.net/poetry#reallyready) asking the question, "am I ready for love?".
+
 **July 24** Halfway through editing and categorizing my book of poetry. Celebrating small steps towards a larger goal.
 
 **July 18** Published [poem about the divorce](http://davelukas.net/poetry#wow).
