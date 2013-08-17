@@ -1,6 +1,6 @@
-_Latest Writing_: <a href:"#itstime">It's Time</a>
+_Latest Writing_: <a href="#itstime">It's Time</a>
 
-#itstime
+<a name="itstime"></a>
 #It's Time#
 It’s time.  
 
