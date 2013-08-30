@@ -1,22 +1,10 @@
-> ####"I see a new sun, rising again. Brand new colors, brand new road ahead." 
-> -Xavier Rudd
+> ####"What you about to witness is my thoughts,
+####Just my thoughts man - right or wrong.
+####Just what I was feeling at the time,
+####You ever felt like this, you vibe with me.
+###Just vibe with me."
+> -Jay Z
+
+**August 30** New writing: [Second Wind](http://davelukas.net/writing#secondwind) , about defining my next chapter and the silent yet relentless force I will become.
 
 **August 16** New poem, ["Really Ready?""](http://davelukas.net/poetry#reallyready) asking the question, "am I ready for love?".
-
-**July 24** Halfway through editing and categorizing my book of poetry. Celebrating small steps towards a larger goal.
-
-**July 18** Published [poem about the divorce](http://davelukas.net/poetry#wow).
-
-**July 11** The next chapter officially began at 10:19 AM today.
-
-**July 9** Transitioning back from an outstanding weekend at [WDS](http://worlddominationsummit.com). Processing...
-
-**July 5** The connecting happening at [WDS](http://worlddominationsummit.com) fascinates me and is filling me up energetically.
-
-**July 2** Had a great meditative/peaceful 5 mile run through the woods at twilight.
-
-**July 2** Immense feeling of empowerment for getting my site posted. Huge high five to [Ev Bogue](http://evbogue.com)!
-
-**June 29** Trying to get this bad boy posted to the public interwebs.
-
-**June 5** Lesson learned on the "power" of the almighty email list.
