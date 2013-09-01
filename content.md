@@ -5,6 +5,8 @@
 ###Just vibe with me."
 > -Jay Z
 
+**September 1** Enjoying a pale ale celebrating the move into my new place yesterday and getting things unpacked today. Letting life settle, but grateful to be where I am.
+
 **August 30** New writing: [Second Wind](http://davelukas.net/writing#secondwind) , about defining my next chapter and the silent yet relentless force I will become.
 
 **August 16** New poem, ["Really Ready?""](http://davelukas.net/poetry#reallyready) asking the question, "am I ready for love?".
