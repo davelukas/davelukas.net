@@ -4,7 +4,7 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Dave Lukas' });
+  res.render('index', { title: 'Dave Lukas - Being the Second Wind' });
 };
 
 exports.about = function(req, res){
