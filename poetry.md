@@ -1,3 +1,9 @@
+###<center> _Breaking Free & Releasing Into the Nothing_: 
+</center>
+	<center>My first poetry book, available for purchase [here](http://amzn.com/B00FND4X0C)</center>  
+
+---
+
 _Latest Poems_: <a href="#reallyready">Really Ready?</a> | <a href="#wow">Wow</a> | <a href="#twenty">The Twenty Year Wound</a> | <a href="#onlysky">Only Sky</a> | <a href="#ocean">Ocean Friend</a>
 
 <a name="reallyready"></a>
