@@ -1,0 +1,19 @@
+p.grayer {
+	color: #666;
+}
+.frame {
+	float: left;
+	margin-right: 1em;
+	margin-bottom: .5em;
+	padding: 4px;
+	box-shadow: 1px 3px 3px #ddd;
+}
+.navbar {
+  background: #313131;
+  width: 100%;
+  position: fixed;
+  z-index: 1000;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  box-shadow: 1px 3px 3px #ff9900;
+}
