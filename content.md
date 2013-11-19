@@ -1,6 +1,6 @@
 <center><a href="http://amzn.com/B00FND4X0C"> <img src="/images/breakingfreecover.png" style= width:40%; border: 5 px; solid; class="frame"> </a> </center>
 
-###<center><div class=grayer>_Breaking Free & Releasing Into the Nothing_</div> is available for purchase over at [Amazon](http://amzn.com/B00FND4X0C).</center>
+###<div class=grayer>_Breaking Free & Releasing Into the Nothing_</div> (my new poetry book) is available for purchase over at [Amazon](http://amzn.com/B00FND4X0C).
   
   
 <hr>
