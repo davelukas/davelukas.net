@@ -4,7 +4,7 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Dave Lukas - Being the Second Wind' });
+  res.render('index', { title: 'Dave Lukas - Being the Second Wind'});
 };
 
 exports.about = function(req, res){
@@ -16,9 +16,13 @@ exports.poetry = function(req, res){
 };
 
 exports.writing = function(req, res){
-  res.render('writing', { title: 'Writing' });
+  res.render('writing', { title: 'Writing'});
 };
 
 exports.secondwind = function(req, res){
 	res.render('secondwind', { title: 'Second Wind'});
+};
+
+exports.itstime = function(req, res){
+	res.render('itstime', { title: 'It Is Time'});
 };
