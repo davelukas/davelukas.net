@@ -17,3 +17,16 @@ div.grayer {
   padding-bottom: 7px;
   box-shadow: 1px 3px 3px #ff9900;
 }
+p {
+  color: #333;
+  font-size: 1.2em;
+  font-family: Georgia;
+  line-height: 1.6em;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #333;
+}

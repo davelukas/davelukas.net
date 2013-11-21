@@ -32,6 +32,7 @@ app.get('/', routes.index);
 app.get('/about', routes.about);
 app.get('/poetry', routes.poetry);
 app.get('/writing', routes.writing);
+app.get('/secondwind', routes.secondwind);
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Bitters is listening on port ' + app.get('port'));
