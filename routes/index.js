@@ -4,7 +4,7 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Dave Lukas - Being the Second Wind'});
+  res.render('index', { title: 'Dave Lukas - Shadows and All'});
 };
 
 exports.about = function(req, res){
@@ -24,5 +24,8 @@ exports.secondwind = function(req, res){
 };
 
 exports.itstime = function(req, res){
-	res.render('itstime', { title: 'It Is Time'});
+	res.render('itstime', { title: 'It\'s Time'});
+};
+exports.oneyearago = function(req, res){
+	res.render('oneyearago', {title: 'One Year Ago'});
 };
