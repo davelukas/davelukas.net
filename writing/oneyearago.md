@@ -3,7 +3,7 @@
 One year ago I watched TV.  
 Now I don't have cable in my house.  
 
-One year ago I revolved my Sundays around watching football.
+One year ago I revolved my Sundays around watching football.  
 Now I could give two shits about football.  
 
 One year ago I was consumed by and engrossed in fantasy football.  
@@ -37,11 +37,13 @@ One year ago I believed I was unlovable.
 Now I know with all my heart I'm worthy and deserving of love.  
 
 <hr>
+
 A lot can change over the course of a year. What changes will you start to make today which you can look back on next year with pride?
 
 I'm not going to sugarcoat it and say growth is easy work cause it's not, but it's time to show up in your life and do the work. No one is going to do it for you cause nobody else gives a shit like you do.
 
 So what's it going to be? Sit on the sidelines or get in the game? Cause I'm going to keep playing. Will you join me?
+
 
 
 Dave  
