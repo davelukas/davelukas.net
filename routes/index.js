@@ -24,8 +24,8 @@ exports.secondwind = function(req, res){
 };
 
 exports.itstime = function(req, res){
-	res.render('itstime', { title: 'It\'s Time'});
+	res.render('itstime', { title: 'It Is Time'});
 };
 exports.oneyearago = function(req, res){
-	res.render('oneyearago', {title: 'One Year Ago'});
+	res.render('oneyearago', { title: 'One Year Ago'});
 };
