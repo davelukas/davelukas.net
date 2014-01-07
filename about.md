@@ -2,23 +2,13 @@
 You tell me, you're the one who clicked on my about page. Ask me a question.
 
 **What are you working on?**  
-Right now...I'm not sure. The work involves this site as I continue to build it and tweak it. It seems as soon as I start, I fall further down the rabbit hole of changes I'd like to make.
+Right now I'm in the lab working on a lot of stuff. Rolling out some tech services to help people get up to speed with various things on the internet: websites, mailing lists, etc. But also offering some services to people who want to learn this shit themselves.
 
-**That was a shitty answer!**  
-I know it was, let me finish. I published two books on Amazon (found [here](http://amzn.com/B00FND4X0C) and [here](http://amzn.com/B00ESPNUIM)) in the month of September and I decided to take the month of October off to rest and celebrate what I had accomplished.
-
-But that break has now extended into November and I'm still at a loss on what my next project is.
-
-**So when are you going to figure that out?**  
-You're filled with good questions! I don't know yet. There's a line between resting and putting your butt in chair and lately I feel I need to be in the "put your butt in the chair" camp. Yet I'm not clear what it is I'll be working on.
-
-**Do you have any idea what that might be?**  
-It certainly involves writing cause I feel called to do that, but proramming and development is where I see my work going.
-
-Shit is changing on the web and I'd like to be near the front of that parade.
+**Why would I want to learn this myself? Can't I just pay someone to do it?**  
+Sure, you could pay someone to do it, but where's the fun in that?! It's tremendously empowering to build a site from scratch or write some code, push it to your site and see it live! I feel like a badass when I do it!
 
 **What else do I need to know about you?**  
-I'm a divorced Dad of two: an 8 year old son and 5 year old daughter.
+I'm a divorced Dad of two: an 8 year old son and 6 year old daughter.
 
 I'm a runner. I've run everything from a 5k to a 50 mile race.
 
@@ -33,6 +23,6 @@ Yep!
 
   
 _Dave Lukas_  
-_November 2013_  
+_January 2014_  
 
 <img src="/images/porkies2011.jpg" style= width:100%; border: 3px solid #ccc;>

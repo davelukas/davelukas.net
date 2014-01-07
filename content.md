@@ -1,6 +1,9 @@
-<center><a href="http://amzn.com/B00FND4X0C"> <img src="/images/breakingfreecover.png" style= width:40%; border: 5 px; solid; class="frame"> </a> </center>
 
-###<div class=grayer>_Breaking Free & Releasing Into the Nothing_</div> (my new poetry book) is available for purchase over at [Amazon](http://amzn.com/B00FND4X0C).
+
+#**In the lab conconcting, mixing and experimenting....**
+
+<center><img src="/images/beaker.jpg" width="300px" class="frame2"></center>
+
   
   
 <hr>

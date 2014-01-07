@@ -8,6 +8,12 @@ div.grayer {
 	padding: 4px;
 	box-shadow: 1px 3px 3px #ddd;
 }
+.frame2 {
+  margin-right: 1em;
+  margin-bottom: .5em;
+  padding: 4px;
+  box-shadow: 1px 3px 3px #ddd;
+}
 .navbar {
   background: #313131;
   width: 100%;
