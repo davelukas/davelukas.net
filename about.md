@@ -8,6 +8,11 @@ Right now I'm in the lab working on a lot of stuff. Rolling out some tech servic
 Sure, you could pay someone to do it, but where's the fun in that?! It's tremendously empowering to build a site from scratch or write some code, push it to your site and see it live! I feel like a badass when I do it!
 
 **What else do I need to know about you?**  
+I'm a poet. If you're interested in reading some of my poetry, you can read a small sample [here](/poetry) or you can check out my poetry book on [Amazon](http://amzn.com/B00FND4X0C). Or you can [email me](mailto:dave@davelukas.net) and I'll send you the latest poems.
+
+But poetry isn't where "the work" is right now. It used to be, but now the work has evolved, just like life. So if you'd still like to read more, [let me know](mailto:dave@davelukas.net).
+
+**Cool! What else you got?!**  
 I'm a divorced Dad of two: an 8 year old son and 6 year old daughter.
 
 I'm a runner. I've run everything from a 5k to a 50 mile race.
