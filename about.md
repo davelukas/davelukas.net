@@ -21,9 +21,12 @@ I'm a runner. I've run everything from a 5k to a 50 mile race.
 Yes I did! I ran a 50 mile race!
 
 **Are you crazy?**  
-Yep!
+Yep! And it wasn't just a one time thing either, cause I'm signed up to run another one in May 2014.
 
 **.....**  
+I'll take your silence as a compliment or a judgement, either way, thank you.  
+
+
 [Email me](mailto:dave@davelukas.net) if you have any more questions.
 
   
